@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+}
+.capital-card {
+  text-align: center;
+  background-color: #f8fafc;
+  padding: 25px;
+  width: 50vw;
+  border-radius: 25px;
+}
+.heading {
+  color: #323f4b;
+}
+.country-capital {
+  width: 150px;
+}
+.capital-description {
+}
